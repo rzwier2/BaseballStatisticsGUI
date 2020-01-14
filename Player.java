@@ -1,3 +1,11 @@
+/*
+ * +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ * @Project BaseballStatisticsGUI
+ * @date 12/05/2019
+ * @author Ryan Zwier
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
+*/
+
 import javax.swing.JFrame;
 import java.util.*;
 
