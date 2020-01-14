@@ -1,3 +1,11 @@
+/*
+ * +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ * @Project BaseballStatisticsGUI
+ * @date 12/05/2019
+ * @author Ryan Zwier
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
+*/
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.FlowLayout;
